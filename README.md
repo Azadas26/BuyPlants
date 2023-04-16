@@ -1,3 +1,0 @@
-# BuyPlants
-
-This Website for ...
